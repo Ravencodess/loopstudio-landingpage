@@ -75,7 +75,7 @@
 
 /* MOBILE DISPLAY */
 .header{
-    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('/images/mobile/image-hero.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('./images/mobile/image-hero.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
