@@ -98,6 +98,7 @@
     color: var(--white);
     font-family: var(--font-alata);
     font-size: 2rem;
+    padding-top: 1rem;
 }
 
 .hamburger-container{
