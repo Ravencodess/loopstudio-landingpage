@@ -8,6 +8,10 @@
     --veryDarkGray: hsl(0, 0%, 41%);
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 *,
 *::before,
 *::after{
