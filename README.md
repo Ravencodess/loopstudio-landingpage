@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ravencodess.github.io/loopstudio-landingpage)
+- Live Site URL: [Live Demo](https://ravencodess.github.io/loopstudio-landingpage)
 
 ## My process
 
